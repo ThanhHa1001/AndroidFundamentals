@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_component_top_left_radius">16dp</dimen>
+    <dimen name="small_component_top_right_radius">8dp</dimen>
+    <dimen name="small_component_bottom_left_radius">16dp</dimen>
+    <dimen name="small_component_bottom_right_radius">8dp</dimen>
+</resources>

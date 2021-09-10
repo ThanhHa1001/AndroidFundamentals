@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Shape Appearance for small components like chips, buttons, text fields and FABs-->
+    <style name="ShapeAppearance.SmallComponentType1" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">0px</item>
+        <item name="cornerSizeTopLeft">@dimen/small_component_top_left_radius</item>
+        <item name="cornerSizeTopRight">@dimen/small_component_top_right_radius</item>
+        <item name="cornerSizeBottomRight">@dimen/small_component_bottom_right_radius</item>
+    </style>
+
+    <!--Shape Appearance for small components like chips, buttons, text fields and FABs-->
+    <style name="ShapeAppearance.SmallComponentType2" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">0px</item>
+        <item name="cornerSizeTopLeft">@dimen/small_component_top_left_radius</item>
+        <item name="cornerSizeBottomRight">@dimen/small_component_bottom_right_radius</item>
+    </style>
+</resources>
